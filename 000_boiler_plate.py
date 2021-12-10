@@ -12,5 +12,3 @@ if __name__ == '__main__':
 
     do_part_1(input_str)
     do_part_2(input_str)
-
-    pass
