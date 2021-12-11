@@ -17,6 +17,8 @@ def do_part_1(s: list):
 
 
 def do_part_2(s: list):
+    # EDIT: im sure there's an even quicker way for this part
+    #       but have to be written like the gibberish above
     num = int(s[0])
     crossed_off = [0 for _ in range(0, num)]
 
